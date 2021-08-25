@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://mouazourassen18.github.io/csb-wmlru/static/js/main.18cdbbe6.chunk.js",
+    "main.js.map": "https://mouazourassen18.github.io/csb-wmlru/static/js/main.18cdbbe6.chunk.js.map",
+    "runtime-main.js": "https://mouazourassen18.github.io/csb-wmlru/static/js/runtime-main.0d13e9f5.js",
+    "runtime-main.js.map": "https://mouazourassen18.github.io/csb-wmlru/static/js/runtime-main.0d13e9f5.js.map",
+    "static/js/2.235e61d4.chunk.js": "https://mouazourassen18.github.io/csb-wmlru/static/js/2.235e61d4.chunk.js",
+    "static/js/2.235e61d4.chunk.js.map": "https://mouazourassen18.github.io/csb-wmlru/static/js/2.235e61d4.chunk.js.map",
+    "index.html": "https://mouazourassen18.github.io/csb-wmlru/index.html",
+    "precache-manifest.0d354bb6196f67a684d2062eb6a7ddcb.js": "https://mouazourassen18.github.io/csb-wmlru/precache-manifest.0d354bb6196f67a684d2062eb6a7ddcb.js",
+    "service-worker.js": "https://mouazourassen18.github.io/csb-wmlru/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d13e9f5.js",
+    "static/js/2.235e61d4.chunk.js",
+    "static/js/main.18cdbbe6.chunk.js"
+  ]
+}
